@@ -50,6 +50,13 @@
     - [Projet: Awesome Books](/javascript/awesome-books-project)
     - [Refactoriser votre projet](/javascript/refactoriser-votre-projet-awesome-book)
     - [Project complet avec Navigation](/javascript/navigation-project-awesome-book)
+
+- ## Javascript : ES6 et Webpack
+    - [ES6 de quoi s'agit-il?](/javascript/es-de-quoi-il-s-agit)
+    - [Maitriser la syntaxe es6](/javascript/maitriser-la-syntaxe-es)
+    - [Les modules dans ES6](/javascript/les-modules-es)
+    - [Gestion des packages](/javascript/gestionnaire-des-packages)
+    - [webpack](/javascript/webpack)
   
 - ## React
     - [Installation](/blade/installation)
